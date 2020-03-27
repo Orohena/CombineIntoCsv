@@ -35,6 +35,9 @@ df1 = pd.DataFrame({
 })
 print(df1)
 
-df1.to_csv ('combined.csv', sep='\n')
+df1.to_csv ('combined1.csv', sep='\n')
+df3 = df1.transpose()
+df3.to_csv ('combined3.csv', sep='\n')
+
 
 
