@@ -11,7 +11,7 @@ I'll record here my tests/progress (if any).
 (so it won't take me a year to get there because this is a first step...)
 
 ## My current issue is:
-(File CIC_03) : Ok, I somehow managed to make a data frame with 3 columns with my data in it ? But output weird... See image
+(File CICg_03) : Ok, I somehow managed to make a data frame with 3 columns with my data in it ? But output weird... See image
 
 ## Initial idea:
 I have a Folder named "Results_txt" which contain x folders which contain (1 to 3) files, as follow:
